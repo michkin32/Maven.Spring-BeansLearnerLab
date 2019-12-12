@@ -9,13 +9,13 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class StudentConfigTest {
+class ClassroomConfigTest {
 
     @Test
-    void currentStudents() {
+    void currentCohort() {
     }
 
     @Test
-    void previousStudents() {
+    void previousCohort() {
     }
 }

@@ -1,21 +1,17 @@
-package com.example.demo.configs;
+package com.example.demo.model;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class StudentConfigTest {
+public class AlumniTest {
 
     @Test
-    void currentStudents() {
-    }
-
-    @Test
-    void previousStudents() {
+    public void excecuteBootcamp() {
     }
 }
